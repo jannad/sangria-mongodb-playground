@@ -1,0 +1,15 @@
+logs
+**/target
+.idea
+/.idea_modules
+/RUNNING_PID
+.metadata
+**/bin
+.cache-main
+.settings
+RemoteSystemsTempFiles
+.project
+.classpath
+**/.js/
+**/.jvm/
+**/.DS_Store
